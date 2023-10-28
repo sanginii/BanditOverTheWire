@@ -6,4 +6,4 @@ ssh <username>@<host> -p <portnumber>
 In this case it's ssh bandit0@bandit.labs.overthewire.org -p 2220
 After entering the command it asks for confirmation, enter yes
 Now enter password which is bandit0.
-We have now logged into the game.
+We have now logged into the game
