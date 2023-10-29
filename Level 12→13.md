@@ -24,6 +24,8 @@ xxd -r data.txt > data
 file data 
 ![Alt text](<Screenshot 2023-10-28 at 5.19.15 PM.png>) 
 
+gzip compressed data
+
 8. mv - to rename the filename
 mv data data.gz
 
